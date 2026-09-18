@@ -239,4 +239,4 @@ This repository serves as the official landing page for DVD neXt COPY. The softw
 **Get the most recent version of DVD neXt COPY today!**
 
 ---
-**Last updated:** 2026-09-18 19:21:56 UTC
+**Last updated:** 2026-09-18 22:08:35 UTC
